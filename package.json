@@ -1,0 +1,16 @@
+{
+  "name": "seeds",
+  "version": "0.0.0",
+  "description": "Simple library for HTML rendering in JS",
+  "main": "dist/index.js",
+  "repository": "https://github.com/MrNektom/seeds",
+  "author": "Mikhail Koshikov",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "prepack": "tsc"
+  }
+}

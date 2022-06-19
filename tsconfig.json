@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "strict": true,
+    "module": "ESNext",
+    "lib": ["DOM", "ES2015.Generator", "ESNext"],
+    "moduleResolution": "Classic",
+    "outDir": "./dist"
+  },
+  "exclude": ["./node_modules"],
+  "include": ["./src/**/*"]
+}
