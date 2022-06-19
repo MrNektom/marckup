@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Simple library for HTML rendering in JS",
   "main": "dist/index.js",
-  "repository": "https://github.com/MrNektom/seeds",
+  "repository": "https://github.com/MrNektom/marckup",
   "author": "Mikhail Koshikov",
   "license": "MIT",
   "private": false,
