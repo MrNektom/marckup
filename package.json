@@ -1,5 +1,5 @@
 {
-  "name": "seeds",
+  "name": "marckup",
   "version": "0.0.0",
   "description": "Simple library for HTML rendering in JS",
   "main": "dist/index.js",
